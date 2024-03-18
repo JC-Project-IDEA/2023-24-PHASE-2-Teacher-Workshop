@@ -3,7 +3,7 @@
 <p align="center"> 2023/24 Phase 2: Teacher Workshop </p>
 <p align="center">👨‍🏫 Lazarus Chan </p>
 <p align="center">👩‍🏫 Fiona Lee </p>
-<p align="center">👩‍🏫  </p>
+<p align="center">🧑‍🏫 Cat Fung </p>
 
 ## 🎨 工作坊內容簡介：
 賽馬會科藝共融計劃（Jockey Club Project IDEA）由香港賽馬會慈善信託基金捐助、香港城市大學推行，旨在提升本地中學教師及學生對藝術科技的認識和能力，透過工作坊讓他們掌握如何應用數碼科技進行藝術創作，為傳統創作方式注入新元素，創造更多別樹一格的表現方式。同時，本計劃將透過分享和體驗活動提升學生對共融藝術的意識，啟發他們反思如何讓殘疾人士欣賞藝術及參與藝術活動，透過藝術科技建立共融的社會。
@@ -17,10 +17,10 @@
 </li>
 
 
-## 🎹 DrawSound ｜電・紙樂器 – 用導電墨水將畫作變成電子樂器（觸感聲音互動畫作）  
+## 🎞 SnapSound ｜ –   
 
 
-由導師帶領同學學習不同 Software、Hardware的操作，配以觸感製作技術，將畫作變成觸感聲音互動裝置，從中學習到： 
+由導師帶領同學學習不同 Software、Hardware 的操作，配以熱敏打印和機械原理，將影像和聲音變成互動裝置，從中學習到： 
 
 
 1.	繪畫觸感互動介面：利用導電媒體（如Conductive ink）和熱感紙 (Swell Touch Paper)，創作出具有觸感和互動性的畫作、讓不同能力人士都能欣賞藝術作品；
@@ -66,8 +66,13 @@
 
 4. Arduino https://www.arduino.cc/
 
+5. Processing https://processing.org/
+
+6. Serial MP3 Player Library https://github.com/MajicDesigns/MD_YX5300
+
+   Documentation https://majicdesigns.github.io/MD_YX5300/
+
 
 ## 延伸學習
-1. Processing https://processing.org/
 
-2. p5.js https://p5js.org/
+1. p5.js https://p5js.org/
