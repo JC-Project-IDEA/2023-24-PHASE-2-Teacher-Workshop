@@ -1,7 +1,7 @@
 
 <h1 align="center">🎵 共融藝術 ✕ 科技 教師工作坊 🎵</h1>
 <p align="center"> 2023/24 Phase 2: Teacher Workshop </p>
-<p align="center">👨‍🏫 Lazarus Chan </p>
+<p align="center">👨‍🏫 Lazarus Chan &emsp; 👩‍🏫 Fiona Lee &emsp; 🧑‍🏫 Cat Fung</p>
 <p align="center">👩‍🏫 Fiona Lee </p>
 <p align="center">🧑‍🏫 Cat Fung </p>
 
