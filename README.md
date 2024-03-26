@@ -33,6 +33,7 @@
 
 4.	結合以上技巧，創作出獨一無二的視覺＋觸感＋聲音互動藝術作品，並探索利用導電媒體創作共融藝術的可能性，優秀作品亦有機會於年度展覽中展出。
 
+
 ## 相關連結（聲音）
 1. 音頻檔案轉換 (.m4a to .mp3) https://cloudconvert.com/m4a-to-mp3 or https://convertio.co/m4a-mp3/
 
@@ -45,18 +46,12 @@
 
 4. Internet Archive https://archive.org/details/opensource_audio
 
-5. Online Midi Editor https://signal.vercel.app/edit
 
-6. Online Synthesizer https://learningsynths.ableton.com/en/playground
+## 相關連結（影像）
+1. Online Photo Editor https://www.photopea.com/
 
-7. Online Bit Maker https://splice.com/sounds/beatmaker/026f92d3afda
-
-8. Dot Piano https://dotpiano.com/mEvKj97M0O0
-
-9. Free Midi https://freemidi.org/
 
 ## 相關連結（器材／資源）
-
 1. RS Components 零件 https://hkcn.rs-online.com/web/c/?sra=oss&r=t&searchTerm=arduino
 
 2. SparkFun 零件 https://www.sparkfun.com/
@@ -71,7 +66,8 @@
 
    Documentation https://majicdesigns.github.io/MD_YX5300/
 
+7. Capacitive Sensing Library https://playground.arduino.cc/Main/CapacitiveSensor/
+
 
 ## 延伸學習
-
 1. p5.js https://p5js.org/
