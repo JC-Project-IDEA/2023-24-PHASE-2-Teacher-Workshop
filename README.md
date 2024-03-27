@@ -19,7 +19,7 @@
 </li>
 
 
-## 🎞 SnapSound ｜ –   
+## 🎞 SnapSound｜– 捲軸動力裝置
 
 
 由導師帶領同學學習不同 Software、Hardware 的操作，配以熱敏打印和機械原理，將影像和聲音變成互動裝置，從中學習到： 
