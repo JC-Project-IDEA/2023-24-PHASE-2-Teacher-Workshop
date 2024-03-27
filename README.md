@@ -13,6 +13,8 @@
 
 <li>
    <a href=""> 教師工作坊課堂筆記 </a>
+</li>
+<li>
    <a href="" target="_blank"> 組裝步驟圖解 </a>
 </li>
 
