@@ -12,10 +12,10 @@
 
 
 <li>
-   <a href=""> 教師工作坊課堂筆記 </a>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/Day%201%20-%20AM.pdf" target="_blank"> 教師工作坊課堂筆記 Day 1 AM </a>
 </li>
 <li>
-   <a href="" target="_blank"> 組裝步驟圖解 </a>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/Day%201%20-%20PM.pdf" target="_blank"> 教師工作坊課堂筆記 Day 1 PM </a>
 </li>
 
 
