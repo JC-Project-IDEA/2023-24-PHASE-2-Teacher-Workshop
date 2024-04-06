@@ -47,9 +47,6 @@
 
 3. Free Sound https://freesound.org/
 
-   ID : miuling <br>
-   Password : CityUIDEA
-
 4. Internet Archive https://archive.org/details/opensource_audio
 
 
