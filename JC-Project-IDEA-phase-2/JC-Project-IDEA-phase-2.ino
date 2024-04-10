@@ -32,7 +32,7 @@ void loop() {
   Serial.print(measurement);//SERIAL PRINT SENSOR的數值以方便MAPPING
   Serial.println("\t");
 
-  if (measurement >= 13){//決定觸發起動歌曲的條件(值)
+  if (measurement >= 100){//決定觸發起動歌曲的條件(值)
     mp3.play(1);     //歌曲於SD CARD內的次序
   }
   delay(50);//迴圈再執行的中間位
