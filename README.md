@@ -17,6 +17,9 @@
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/Day%201%20-%20PM.pdf"> 教師工作坊課堂筆記 Day 1 PM </a>
 </li>
+<li>
+   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/Day%201%20-%20PM.pdf](https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/SnapSound-Hardware%20Assembling%20Instructions.pdf"> SnapSound 組裝步驟 </a>
+</li>
 
 
 ## 👂🏻 SnapSound 🎞｜留聲影像 – 用光影呈現聲音場景（聲音視覺化動能藝術作品）
