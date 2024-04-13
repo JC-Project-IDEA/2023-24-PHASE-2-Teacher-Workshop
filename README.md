@@ -28,6 +28,7 @@
 </li>
 
 
+## SnapSound編碼：
 ```sh
 #include "SerialMP3Player.h"// 使用MP3板的編碼庫library
 
