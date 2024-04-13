@@ -27,7 +27,7 @@
    <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/SnapSound-Hardware Assembling Instructions.pdf"> SnapSound 組裝步驟 </a>
 </li>
 <li>
-SnapSound編碼：
+   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/JC-Project-IDEA-phase-2/JC-Project-IDEA-phase-2.ino"> SnapSound編碼： </a>
 </li>
 
 ```sh
