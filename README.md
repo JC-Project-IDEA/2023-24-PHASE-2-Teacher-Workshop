@@ -26,9 +26,9 @@
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-2-Teacher-Workshop/blob/main/SnapSound-Hardware Assembling Instructions.pdf"> SnapSound 組裝步驟 </a>
 </li>
-
-
-## SnapSound編碼：
+<li>
+SnapSound編碼：
+</li>
 ```sh
 #include "SerialMP3Player.h"// 使用MP3板的編碼庫library
 
